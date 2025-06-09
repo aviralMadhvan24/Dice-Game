@@ -1,12 +1,31 @@
-# React + Vite
+# 🎲 Dice Game 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern, and minimalistic Dice Game built with **React** — styled with a dark UI theme inspired by Netflix, Google, and other professional web platforms.
 
-Currently, two official plugins are available:
+## 📸 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Dice Game Screenshot](./screenshot.png)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎲 Roll a dice between **1-6**
+- 🖱️ Select a number before rolling
+- ✅ If selected number matches the dice, you earn points
+- ❌ If not, you lose 2 points
+- 🔄 Reset game anytime
+- 📜 Show/Hide game rules
+- ⚡ Smooth, responsive and dark-themed modern UI
+
+## 🛠️ Tech Stack
+
+- **React JS**
+- **Vite**
+- **Custom CSS (dark, minimalistic theme)**
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/dice-game.git
+cd dice-game
+npm install
+npm run dev
