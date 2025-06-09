@@ -1,11 +1,23 @@
 
 
+import maindices from '/images/maindices.png';
 
 const StartGame = ({toggle}) => {
   return (
     <div
-    
-    >
+    style={
+      {
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        justifyContent: 'center',
+        height: '100vh',
+        backgroundColor: '#black',
+        color: '#fff',
+        fontFamily: 'Arial, sans-serif'}
+    }
+    >gi
+      <img src={maindices} alt="maindices" />
       <button 
      
 
