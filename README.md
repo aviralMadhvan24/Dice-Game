@@ -1,6 +1,6 @@
 # 🎲 Dice Game 🎮
 
-A sleek, modern, and minimalistic Dice Game built with **React** — styled with a dark UI theme inspired by Netflix, Google, and other professional web platforms.
+A sleek, modern, and minimalistic Dice Game built with **React**.
 
 ## 📸 Demo
 
