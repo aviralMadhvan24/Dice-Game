@@ -4,8 +4,8 @@ A sleek, modern, and minimalistic Dice Game built with **React**.
 
 ## 📸 Demo
 
-![Dice Game Screenshot](./screenshot.png)
 ![Dice Game Screenshot](./ss2.png)
+![Dice Game Screenshot](./screenshot.png)
 
 ## 🚀 Features
 
