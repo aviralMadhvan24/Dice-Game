@@ -16,7 +16,7 @@ const StartGame = ({toggle}) => {
         color: '#fff',
         fontFamily: 'Arial, sans-serif'}
     }
-    >gi
+    >
       <img src={maindices} alt="maindices" />
       <button 
      
